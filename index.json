@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "index",
+    "title": "LentoDoc",
+    "formattedTitle": "<span class='text-blue-400'>{</span>LentoDoc<span class='text-blue-400'>}</span>",
+    "tags": [
+      "welcome",
+      "beginner",
+      "quick",
+      "setup"
+    ],
+    "excerpt": "# Quick Setup Guide\n\nHello World!\n\n## Installation\n\nHello Lento!\n"
+  }
+]
